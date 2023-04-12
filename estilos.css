@@ -1,0 +1,42 @@
+html{
+    scroll-behavior: smooth;
+}
+
+p{
+    margin: 0 auto;
+    width: 800px;
+}
+body{
+    margin: 0 auto;
+    width: 800px;
+}
+
+li{
+    display: inline;
+    margin: 0 1em;
+    color: blueviolet
+}
+ol li{
+  display: list-item;
+  margin: 0%;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    text-align: center;
+    margin: 0;
+}
+h1{ 
+font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+a{
+font-size: 25px;
+color: blueviolet;
+font-family: sans-serif;
+
+}
+
+
